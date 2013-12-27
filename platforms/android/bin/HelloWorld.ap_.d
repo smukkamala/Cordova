@@ -1,0 +1,25 @@
+/home/satish/Cordova/hello/platforms/android/bin/HelloWorld.ap_ \
+ : /home/satish/Cordova/hello/platforms/android/res/drawable-hdpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/res/drawable/icon.png \
+/home/satish/Cordova/hello/platforms/android/res/xml/config.xml \
+/home/satish/Cordova/hello/platforms/android/res/values/strings.xml \
+/home/satish/Cordova/hello/platforms/android/res/drawable-xhdpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/res/drawable-mdpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/res/drawable-ldpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/bin/res/drawable-hdpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/bin/res/drawable/icon.png \
+/home/satish/Cordova/hello/platforms/android/bin/res/drawable-xhdpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/bin/res/drawable-mdpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/bin/res/drawable-ldpi/icon.png \
+/home/satish/Cordova/hello/platforms/android/assets/www \
+/home/satish/Cordova/hello/platforms/android/assets/www/img \
+/home/satish/Cordova/hello/platforms/android/assets/www/cordova.js \
+/home/satish/Cordova/hello/platforms/android/assets/www/js \
+/home/satish/Cordova/hello/platforms/android/assets/www/index.html \
+/home/satish/Cordova/hello/platforms/android/assets/www/cordova_plugins.js \
+/home/satish/Cordova/hello/platforms/android/assets/www/config.xml \
+/home/satish/Cordova/hello/platforms/android/assets/www/css \
+/home/satish/Cordova/hello/platforms/android/assets/www/img/logo.png \
+/home/satish/Cordova/hello/platforms/android/assets/www/js/index.js \
+/home/satish/Cordova/hello/platforms/android/assets/www/css/index.css \
+/home/satish/Cordova/hello/platforms/android/bin/AndroidManifest.xml \
